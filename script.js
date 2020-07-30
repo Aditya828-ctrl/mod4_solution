@@ -53,10 +53,6 @@ WARNING!!! WARNING!!!
     // Look up these methods on Mozilla Developer Network web site if needed.
     var firstLetter =names[i].charAt(0);
     firstLetter=firstLetter.toLowerCase();
-<<<<<<< HEAD
-=======
-  
->>>>>>> 541c0db23a4c89eb49ab0cf4b06b9d23055074be
 
     // STEP 12:
     // Compare the 'firstLetter' retrieved in STEP 11 to lower case
